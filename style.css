@@ -1,0 +1,16 @@
+* {
+	border: 1px solid red;
+}
+
+.header {
+	height: 800px;
+	background-color: #dedbdb;
+}
+
+.nav	{
+	display: flex;
+}
+
+body {
+	margin: 0;
+}
